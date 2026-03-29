@@ -28,12 +28,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Bloggify/renderer-ejs.git"
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-renderer-ejs.git"
   },
   "bugs": {
-    "url": "https://github.com/Bloggify/renderer-ejs/issues"
+    "url": "https://github.com/Bloggify/bloggify-renderer-ejs/issues"
   },
-  "homepage": "https://github.com/Bloggify/renderer-ejs#readme",
+  "homepage": "https://github.com/Bloggify/bloggify-renderer-ejs#readme",
   "blah": {
     "description": "Learn more about [ejs](https://github.com/mde/ejs).",
     "installation": [
